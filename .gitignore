@@ -1,0 +1,10 @@
+flask_venv/
+tmp/
+*.db
+.idea/
+__pycache__/
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
